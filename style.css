@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    width: 1200px;
+}
+
+.header {
+    background-color: aqua;
+}
+.servicios{
+    background-color: azure;
+    
+}
+.noticias{
+    background-color: chartreuse;
+}
+.miembros{
+    background-color: burlywood;
+}
+.footer{
+    background-color: navajowhite;
+}
+.menu_principal{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+.barra_superior{
+    display: flex;
+}
+.titulo_principal{
+
+}
+.contenedor_menu{
+
+}
+.menu_principal__item > a :hover{
+
+}
