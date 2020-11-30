@@ -1,2 +1,2 @@
-# Mintic-Ciclo-3-113
-Repositorio creado para el grupo 113 del mintic
+# semana-1-113
+Reto Semana 1 Ciclo 3
